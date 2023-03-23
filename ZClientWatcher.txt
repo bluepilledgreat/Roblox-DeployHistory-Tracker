@@ -1,1 +1,1 @@
-WindowsPlayer: version-18c1ff6f354c4a1c [0.569.268.5690404]
+WindowsPlayer: version-788d11f912014767 [0.570.268.5700017]
