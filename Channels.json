@@ -12,6 +12,7 @@
 	"ZCanaryApps",
 	"ZClientWatcher",
 	"ZFeatureLuaSM",
+	"ZFeatureTestDeploy",
 	"ZFlag",
 	"ZIntegration",
 	"ZIntegration1",
