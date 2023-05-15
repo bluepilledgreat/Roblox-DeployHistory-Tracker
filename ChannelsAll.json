@@ -64,6 +64,7 @@
     "ZFeatureShorelines",
     "ZFeatureSignal-Reduce-Copies",
     "ZFeatureSignalConcurrency",
+    "ZFeatureSignalDoubleLink",
     "ZFeatureSoundworks-Testing",
     "ZFeatureStrafing",
     "ZFeatureSubsystemAtomic",

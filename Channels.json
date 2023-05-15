@@ -13,6 +13,7 @@
 	"ZClientWatcher",
 	"ZFeatureLuaSM",
 	"ZFeatureReport-Anything",
+	"ZFeatureSignalDoubleLink",
 	"ZFeatureTestDeploy",
 	"ZFlag",
 	"ZIntegration",
