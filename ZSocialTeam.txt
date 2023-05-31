@@ -1,5 +1,5 @@
-WindowsPlayer: version-cf619861a6a44dea [0.579.100.5790291]
-WindowsStudio: version-a1986e75a3aa4450 [0.579.100.5790291]
-WindowsStudio64: version-ab9ac2f3c94140ba [0.579.100.5790291]
+WindowsPlayer: version-9fc9986f14eb4910 [0.579.100.5790295]
+WindowsStudio: version-fef7f3ab14a44753 [0.579.100.5790295]
+WindowsStudio64: version-09887f0cddc94e9a [0.579.100.5790295]
 MacPlayer: version-93960fd96f944009 [0.579.100.5790295]
 MacStudio: version-e1fcd1d26ac14d0a [0.579.100.5790295]
