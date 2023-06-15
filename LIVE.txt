@@ -1,4 +1,4 @@
-WindowsPlayer: version-fc016d0b23cd4cd6 [0.580.0.5800572]
+WindowsPlayer: version-21bedf9513a74867 [0.578.0.5780566]
 WindowsStudio: version-1f12a0b5b1bf44ce [0.578.0.5780566]
 WindowsStudioCJV: version-0d69d95480054f1c [0.578.0.5780566]
 WindowsStudio64: version-9be22adbf0e04450 [0.580.0.5800572]
