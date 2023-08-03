@@ -1,6 +1,5 @@
 [
 	"LIVE",
-	"ZAvatarTeam",
 	"ZAvatarTeam2",
 	"ZAvatarRelease",
 	"ZCanary",
@@ -17,9 +16,11 @@
 	"ZFlag",
 	"ZIntegration",
 	"ZIntegration1",
+	"ZIntegration2",
 	"ZLive",
 	"ZLive1",
 	"ZLive2",
+	"ZLive3",
 	"ZNext",
 	"ZSocialTeam",
 	"ZStudioInt1",
