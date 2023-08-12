@@ -43,6 +43,7 @@
     "ZFeatureChannel_Test",
     "ZFeatureCharacter-Controller",
     "ZFeatureDeeplink",
+    "ZFeatureEnablingNewCSGApis",
     "ZFeatureFMOD-20109",
     "ZFeatureFMOD-20115",
     "ZFeatureFMOD-Recording-Test",
