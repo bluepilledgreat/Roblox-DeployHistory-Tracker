@@ -21,6 +21,8 @@
 	"ZCanary9",
 	"ZCanaryApps",
 	"ZClientWatcher",
+	"ZFeatureAbstractMetricStorage2",
+	"ZFeatureAbstractSessionMetricStorage",
 	"ZFeaturePrototypeOnboarding",
 	"ZFeatureReport-Anything",
 	"ZFeatureSignalDoubleLink",

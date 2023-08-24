@@ -34,6 +34,8 @@
     "ZCopy_Both",
     "ZDXT",
     "ZDummy",
+    "ZFeatureAbstractMetricStorage2",
+    "ZFeatureAbstractSessionMetricStorage",
     "ZFeatureAerodynamics",
     "ZFeatureAlwaysStrafing",
     "ZFeatureAutoReconnect",
