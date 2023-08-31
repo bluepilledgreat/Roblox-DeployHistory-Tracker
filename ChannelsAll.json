@@ -38,6 +38,7 @@
     "ZFeatureAbstractSessionMetricStorage",
     "ZFeatureAerodynamics",
     "ZFeatureAlwaysStrafing",
+    "ZFeatureAlwaysStrafing2",
     "ZFeatureAutoReconnect",
     "ZFeatureBaseline",
     "ZFeatureBoost_Removal_Test_In_Prod",
