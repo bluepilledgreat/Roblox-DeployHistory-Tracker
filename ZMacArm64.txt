@@ -1,2 +1,2 @@
-MacPlayer: version-50f9a1f54e8049f0 [0.594.0.5940525]
-MacStudio: version-5309addc7bac413c [0.594.0.5940525]
+MacPlayer: version-b8459847196643cf [0.595.0.5950541]
+MacStudio: version-a04698cc68a84663 [0.595.0.5950541]
