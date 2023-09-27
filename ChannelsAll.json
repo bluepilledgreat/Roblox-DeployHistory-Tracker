@@ -122,6 +122,8 @@
     "ZProjectELiu",
     "ZProjectLoadingScreen",
     "ZProjectLuaProxyParts",
+    "ZProjectMacProtocolHandlerSwitch",
+    "ZProjectMacProtocolHandlerSwitchPublic",
     "ZProjectMovement-Alpha",
     "ZProjectMovement-Beta",
     "ZProjectNetwork-Transport-Split",
