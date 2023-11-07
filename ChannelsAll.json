@@ -1,6 +1,7 @@
 [
     "Ganesh",
     "LIVE",
+    "ZAutoSetup",
     "ZAvatarRelease",
     "ZAvatarTeam",
     "ZAvatarTeam2",
@@ -122,6 +123,7 @@
     "ZProject516-Boost-Remove-Mutex-Network",
     "ZProject587-Split-Remote-File",
     "ZProject588-Split-Remote-File",
+    "ZProjectAutoSetup",
     "ZProjectBackupLiveEditingTest",
     "ZProjectELiu",
     "ZProjectLoadingScreen",
