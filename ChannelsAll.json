@@ -49,6 +49,8 @@
     "ZFeatureBootstrapper_Fix",
     "ZFeatureChannel_Test",
     "ZFeatureCharacter-Controller",
+    "ZFeatureCLI-88773-Curl-Update",
+    "ZFeatureCLI-88773-Curl-Update-2",
     "ZFeatureDeeplink",
     "ZFeatureEnablingNewCSGApis",
     "ZFeatureFiber",
