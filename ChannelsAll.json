@@ -162,6 +162,7 @@
     "ZProjectUpdate-WebRTC",
     "ZProjectUpdate-WebRTC-Fetch-Content",
     "ZPublic",
+    "ZPublicTestingGUIMemoryReduction",
     "ZQt",
     "ZQtCanary",
     "ZQtIntegration",
