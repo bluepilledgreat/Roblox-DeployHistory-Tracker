@@ -21,6 +21,7 @@
 	"ZCanary8",
 	"ZCanary9",
 	"ZCanaryApps",
+	"ZDisableMemoryTrackingTest",
 	"ZDisableMemoryTrackingTestComparison",
 	"ZDontRerenderForBadTexture",
 	"ZFlag",

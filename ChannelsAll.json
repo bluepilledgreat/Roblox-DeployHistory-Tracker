@@ -39,6 +39,7 @@
     "ZClientWatcher",
     "ZCommonCLFB",
     "ZCopy_Both",
+    "ZDisableMemoryTrackingTest",
     "ZDisableMemoryTrackingTestComparison",
     "ZDontRerenderForBadTexture",
     "ZDummy",
