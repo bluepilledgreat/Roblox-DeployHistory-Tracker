@@ -198,6 +198,7 @@
     "ZQTitanStudioRelease",
     "ZQTitanStudioReleaseHighDpi",
     "ZQTitanStudioReleaseTest",
+    "ZReduceFontAssetIdAllocs",
     "ZReleaseVS2019",
     "ZRupp",
     "ZSTIntegration",
