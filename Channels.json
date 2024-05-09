@@ -1,5 +1,6 @@
 [
 	"LIVE",
+	"ZAsyncApolloCow",
 	"ZAvatarTeam",
 	"ZAvatarTeam2",
 	"ZAvatarRelease",
@@ -30,6 +31,7 @@
 	"ZExpR256",
 	"ZExpVariantPrivate",
 	"ZFlag",
+	"ZIlyaControl",
 	"ZIntegration",
 	"ZIntegration1",
 	"ZIntegration2",
