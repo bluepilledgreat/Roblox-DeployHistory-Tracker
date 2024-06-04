@@ -26,6 +26,7 @@
 	"ZCSPUHotfixTest",
 	"ZDisableMemoryTrackingTest",
 	"ZDisableMemoryTrackingTestComparison",
+	"ZDMAccessorMigrations",
 	"ZDontRerenderForBadTexture",
 	"ZExpD1",
 	"ZExpD256",
