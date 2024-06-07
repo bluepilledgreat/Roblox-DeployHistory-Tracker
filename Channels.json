@@ -70,5 +70,7 @@
 	"ZTotalBytesInAllocStats",
 	"ZVariantPrivate1",
 	"ZVisBugChecks-620",
-	"ZVoiceChatMemoryImprovements"
+	"ZVoiceChatMemoryImprovements",
+	"Z1DAFlag",
+	"Z1WAFlag"
 ]
