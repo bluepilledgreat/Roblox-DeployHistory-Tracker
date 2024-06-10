@@ -74,5 +74,7 @@
 	"ZVisBugChecks-620",
 	"ZVoiceChatMemoryImprovements",
 	"Z1DAFlag",
-	"Z1WAFlag"
+	"Z1WAFlag",
+	"Z2WAFlag",
+	"Z4WAFlag"
 ]
