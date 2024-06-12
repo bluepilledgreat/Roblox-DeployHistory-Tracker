@@ -254,6 +254,7 @@
     "ZOverlapTest",
     "ZPackageVersionNotes",
     "ZPathFinding-Improvements",
+    "ZPerfRegression",
     "ZPhysicsDebug",
     "ZProject512-Boost-Remove-Mutex-1",
     "ZProject516-Boost-Remove-Mutex-Network",
