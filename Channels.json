@@ -24,6 +24,7 @@
 	"ZCanary8",
 	"ZCanary9",
 	"ZCanaryApps",
+	"ZCreateMRDAllocsReduc",
 	"ZCSPUHotfixTest",
 	"ZDisableMemoryTrackingTest",
 	"ZDisableMemoryTrackingTestComparison",

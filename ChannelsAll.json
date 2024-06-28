@@ -63,6 +63,7 @@
     "ZConvAICodeRunner",
     "ZCopy_Both",
     "ZCrashOnShutdown",
+    "ZCreateMRDAllocsReduc",
     "ZCSCTesting",
     "ZCSG4",
     "ZCSPUHotfixTest",
