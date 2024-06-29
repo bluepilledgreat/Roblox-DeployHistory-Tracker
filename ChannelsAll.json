@@ -196,6 +196,7 @@
     "ZFileWatcherTesting",
     "ZFlag",
     "ZFlagEditor",
+    "ZFlaggedSplitHashUpdateTestingV2",
     "ZFlexLayoutControl",
     "ZFlexLayoutTest2",
     "ZForceConstructionInCreatable",
