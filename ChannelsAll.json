@@ -9,6 +9,7 @@
     "ZAIDiff",
     "ZAIDiffMessage",
     "ZAllocCallbacks",
+    "ZAllocTrackWinQuickFix",
     "ZAssetAccessErrorMessageImprovements",
     "ZAssetPreloading",
     "ZAsyncApolloCow",
