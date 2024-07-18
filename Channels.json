@@ -83,6 +83,7 @@
 	"ZQQIU-V2Point-Dup-Fix",
 	"ZQQIU-V2Point-Verification-Fix1",
 	"ZSATintTest633",
+	"ZScopedRefPtrReleaseBug",
 	"ZSocialTeam",
 	"ZSplitHashUpdateTesting",
 	"ZSplitHashUpdateTestingV2",

@@ -359,6 +359,7 @@
     "ZRupp",
     "ZRuppDebug",
     "ZSATintTest633",
+    "ZScopedRefPtrReleaseBug",
     "ZSecretStoreTest",
     "ZStandByPrivate",
     "ZSTIntegration",
