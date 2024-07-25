@@ -245,6 +245,7 @@
     "ZLuaTest",
     "ZLuauFileSyncTesting",
     "ZMacArm64",
+    "ZManualHookTest",
     "ZMaterialGenerator",
     "ZMaterialPicker",
     "ZMovementAlpha",

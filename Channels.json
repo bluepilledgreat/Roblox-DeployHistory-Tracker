@@ -1,6 +1,7 @@
 [
 	"LIVE",
 	"ZAFlag",
+	"ZAllocCallbacks",
 	"ZAllocTrackWinQuickFix",
 	"ZAsyncApolloCow",
 	"ZAsyncApolloCowExperiment",
@@ -64,6 +65,7 @@
 	"ZLive2",
 	"ZLive3",
 	"ZLiveForBeta",
+	"ZManualHookTest",
 	"ZNew-Grid-Desktop",
 	"ZNew-Grid-Test",
 	"ZNext",
