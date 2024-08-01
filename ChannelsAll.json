@@ -403,6 +403,7 @@
     "ZTheod-Test-003",
     "ZTotalBytesInAllocStats",
     "ZUADF",
+    "ZUADFRelease",
     "ZVariantPrivate1",
     "ZVariantPrivate2",
     "ZViewportFrameEnvMapSupport",
