@@ -49,6 +49,7 @@
 	"ZGuiMixinMigrationChannel",
 	"ZHarmonyFRMFixRunningAverageTestChannel",
 	"ZHarmonyFRMTunableV1Binary",
+	"ZHarmonyNewEffectModelOn",
 	"ZJsonAllocatorChanges",
 	"ZIlyaControl",
 	"ZIntegration",
