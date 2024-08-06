@@ -84,6 +84,7 @@
 	"ZRealTimeSessionTrackingReportingMac2",
 	"ZReduceFontAssetIdAllocs",
 	"ZRemoveMTypesetters",
+	"ZReportEarlyTelemetryData",
 	"ZQQIU-Channel-Adoption",
 	"ZQQIU-Channel-Adoption-1",
 	"ZQQIU-Point-V2-Gating-Logic-V1",
