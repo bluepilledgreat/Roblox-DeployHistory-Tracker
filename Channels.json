@@ -100,6 +100,8 @@
 	"ZSocialTeam",
 	"ZSplitHashUpdateTesting",
 	"ZSplitHashUpdateTestingV2",
+	"ZStaleFlag",
+	"ZStaleFlagControl",
 	"ZStudioInt1",
 	"ZStudioInt2",
 	"ZTempTestDogFoodSession2A",
