@@ -221,6 +221,7 @@
     "ZIlyaControl",
     "ZImmersiveAdsDebug",
     "ZInsertServiceReplaceUnsafeBlockingLoadInstance",
+    "ZInstanceClusterRetryPartInvalidation",
     "ZInstanceGlob",
     "ZInstanceGlob3",
     "ZInstanceGlob-Control",

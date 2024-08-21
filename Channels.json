@@ -57,6 +57,7 @@
 	"ZJsonAllocatorChanges",
 	"ZKTong-Crash-Hang-Testing",
 	"ZIlyaControl",
+	"ZInstanceClusterRetryPartInvalidation",
 	"ZInstanceGlob",
 	"ZInstanceGlob3",
 	"ZInstanceGlob-Control",
