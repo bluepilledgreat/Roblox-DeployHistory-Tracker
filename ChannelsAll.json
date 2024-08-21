@@ -419,6 +419,8 @@
     "ZTesting",
     "ZTestMac2",
     "ZTestMacShaderAllocation",
+    "ZTextureDedup",
+    "ZTextureDedup-Control",
     "ZTheod-Test-003",
     "ZTotalBytesInAllocStats",
     "ZUADF",
