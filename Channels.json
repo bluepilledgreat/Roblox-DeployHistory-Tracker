@@ -135,6 +135,7 @@
 	"ZVoiceChatMemoryImprovements",
 	"ZVoiceJoinOperationExtendedTimeout",
 	"ZVoiceJoinOperationFix",
+	"ZWindowsConnectionPreWarmingTest",
 	"Z1DAFlag",
 	"Z1WAFlag",
 	"Z2WAFlag",
