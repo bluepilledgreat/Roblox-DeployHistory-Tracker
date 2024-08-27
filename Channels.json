@@ -97,6 +97,8 @@
 	"ZRCCCrashHandlerTest",
 	"ZRealTimeSessionTrackingReportingMac2",
 	"ZReduceFontAssetIdAllocs",
+	"ZRemoveExternalTextureRef",
+	"ZRemoveExternalTextureRef-Control",
 	"ZRemoveMTypesetters",
 	"ZReportEarlyTelemetryData",
 	"ZQQIU-Channel-Adoption",

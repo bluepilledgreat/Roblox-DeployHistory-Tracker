@@ -381,6 +381,8 @@
     "ZRegressionTest28",
     "ZRegressionTest29",
     "ZReleaseVS2019",
+    "ZRemoveExternalTextureRef",
+    "ZRemoveExternalTextureRef-Control",
     "ZRemoveMTypesetters",
     "ZReportEarlyTelemetryData",
     "ZRobusta",
