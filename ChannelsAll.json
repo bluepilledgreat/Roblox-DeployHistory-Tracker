@@ -436,6 +436,7 @@
     "ZUADF",
     "ZUADFRelease",
     "ZUpdateLayoutTelemetryExperiment",
+    "ZUpdateLayoutTelemetryExperiment3",
     "ZUserInfoAcquiredTelemetry",
     "ZVariantPrivate1",
     "ZVariantPrivate2",
@@ -462,5 +463,6 @@
     "Z1DAFlag",
     "Z1WAFlag",
     "Z2WAFlag",
-    "Z4WAFlag"
+    "Z4WAFlag",
+    "Z16Cookie"
 ]
