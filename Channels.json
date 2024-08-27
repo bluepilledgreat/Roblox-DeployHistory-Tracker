@@ -137,6 +137,7 @@
 	"ZTotalBytesInAllocStats",
 	"ZUADFRelease",
 	"ZUpdateLayoutTelemetryExperiment",
+	"ZUpdateLayoutTelemetryExperiment3",
 	"ZUserInfoAcquiredTelemetry",
 	"ZVariantPrivate1",
 	"ZVisBugChecks-620",
