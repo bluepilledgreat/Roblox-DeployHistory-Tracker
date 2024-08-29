@@ -64,6 +64,7 @@
     "ZClientWatcher",
     "ZClockSkew",
     "ZCommonCLFB",
+    "ZControl",
     "ZConvAICodeRunner",
     "ZCopy_Both",
     "ZCrashOnShutdown",

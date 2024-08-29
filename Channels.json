@@ -30,6 +30,7 @@
 	"ZCheckSendTypeBeforeSetupTimer",
 	"ZClockSkew",
 	"ZCommonCLFB",
+	"ZControl",
 	"ZCreateMRDAllocsReduc",
 	"ZCSPUHotfixTest",
 	"ZDisableMemoryTrackingTest",
