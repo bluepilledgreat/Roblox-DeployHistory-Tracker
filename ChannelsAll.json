@@ -258,6 +258,7 @@
     "ZLogServiceTest",
     "ZLoom",
     "ZLuaRibbon",
+    "ZLuaStartPageSmokeTest",
     "ZLuaTest",
     "ZLuauFileSyncTesting",
     "ZMacArm64",
