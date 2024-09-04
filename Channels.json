@@ -149,6 +149,7 @@
 	"ZUserInfoAcquiredTelemetry",
 	"ZVariantPrivate1",
 	"ZVisBugChecks-620",
+	"ZVoice1485DurationLogger",
 	"ZVoiceChatCulling",
 	"ZVoiceChatMemoryImprovements",
 	"ZVoiceJoinOperationExtendedTimeout",
