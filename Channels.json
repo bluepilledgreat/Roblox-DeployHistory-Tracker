@@ -157,6 +157,7 @@
 	"ZVoiceChatMemoryImprovements",
 	"ZVoiceJoinOperationExtendedTimeout",
 	"ZVoiceJoinOperationFix",
+	"ZVoiceJoinOperationLuaFixFlagOnly",
 	"ZWindowsConnectionPreWarmingTest",
 	"Z1DAFlag",
 	"Z1WAFlag",

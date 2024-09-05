@@ -499,6 +499,7 @@
     "ZVoiceCulling",
     "ZVoiceJoinOperationExtendedTimeout",
     "ZVoiceJoinOperationFix",
+    "ZVoiceJoinOperationLuaFixFlagOnly",
     "ZVoiceUpsell",
     "ZVoiceUpsell3",
     "ZVS2019",
