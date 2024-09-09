@@ -12,6 +12,7 @@
     "ZAllocateCacheContiguousWithConstraint",
     "ZAllocCallbacks",
     "ZAllocTrackWinQuickFix",
+    "ZAnrReporterOnWindowsTesting",
     "ZAssetAccessErrorMessageImprovements",
     "ZAssetDeliveryV2",
     "ZAssetPreloading",

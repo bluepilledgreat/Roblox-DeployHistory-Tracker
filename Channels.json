@@ -4,6 +4,7 @@
 	"ZAFlag",
 	"ZAllocCallbacks",
 	"ZAllocTrackWinQuickFix",
+	"ZAnrReporterOnWindowsTesting",
 	"ZAsyncApolloCow",
 	"ZAsyncApolloCowExperiment",
 	"ZAvatarTeam",
