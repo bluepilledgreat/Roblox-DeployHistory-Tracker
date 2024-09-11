@@ -53,6 +53,7 @@
 	"ZFlexLayoutControl",
 	"ZFlexLayoutTest2",
 	"ZForceConstructionInCreatable",
+	"ZFullCache",
 	"ZGraphicsOptimizationModeScalesHighFlag",
 	"ZGraphicsOptimizationModeScalesLowFlag",
 	"ZGraphicsOptimizationModeScalesMidFlag",

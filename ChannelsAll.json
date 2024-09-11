@@ -227,6 +227,7 @@
     "ZFlexLayoutTest2",
     "ZForceConstructionInCreatable",
     "ZFPM",
+    "ZFullCache",
     "ZGraphicsOptimizationModeScalesHighFlag",
     "ZGraphicsOptimizationModeScalesLowFlag",
     "ZGraphicsOptimizationModeScalesMidFlag",
