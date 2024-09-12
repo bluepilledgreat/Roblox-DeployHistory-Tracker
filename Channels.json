@@ -131,6 +131,7 @@
 	"ZQQIU-V2-Point-PlaceId-Client",
 	"ZSATintTest633",
 	"ZScopedRefPtrReleaseBug",
+	"ZSerializerApiTest",
 	"ZSimLazyIslandUpdateAndRepack",
 	"ZSmoothClusterFixes",
 	"ZSocialTeam",
