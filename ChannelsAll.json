@@ -439,6 +439,7 @@
     "ZSecretUrlEncodeTest",
     "ZSerializerApiTest",
     "ZSimLazyIslandUpdateAndRepack",
+    "ZSimpleJSONDeprecateStringDefaultHandler",
     "ZSmoothClusterFixes",
     "ZSocialTeam",
     "ZSocial-Presence",

@@ -133,6 +133,7 @@
 	"ZScopedRefPtrReleaseBug",
 	"ZSerializerApiTest",
 	"ZSimLazyIslandUpdateAndRepack",
+	"ZSimpleJSONDeprecateStringDefaultHandler",
 	"ZSmoothClusterFixes",
 	"ZSocialTeam",
 	"ZSplitHashUpdateTesting",
