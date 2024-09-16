@@ -152,6 +152,7 @@
 	"ZTestConnectionPreWarmingMac4",
 	"ZTestMac2",
 	"ZTestMacShaderAllocation",
+	"ZTestPose",
 	"ZTextureDedup",
 	"ZTextureDedup-Control",
 	"ZTheod-Test-003",
