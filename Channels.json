@@ -163,6 +163,7 @@
 	"ZUnifiedHangMonitor",
 	"ZUpdateLayoutTelemetryExperiment",
 	"ZUpdateLayoutTelemetryExperiment3",
+	"ZUserInfoAcquiredLog",
 	"ZUserInfoAcquiredTelemetry",
 	"ZVariantPrivate1",
 	"ZVisBugChecks-620",
