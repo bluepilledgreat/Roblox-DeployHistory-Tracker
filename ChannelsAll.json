@@ -64,6 +64,7 @@
     "ZCheckSendTypeBeforeSetupTimer",
     "ZCheckSendTypeBeforeSetUptimerInHttpPointsReporter",
     "ZChunkExperimentBinary",
+    "ZChunkExperimentBinaryControl",
     "ZCLI-92373",
     "ZCLI-92373-2",
     "ZCLI-97809",
