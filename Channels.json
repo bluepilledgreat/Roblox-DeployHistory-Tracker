@@ -139,6 +139,7 @@
 	"ZSerializerApiTest",
 	"ZSimLazyIslandUpdateAndRepack",
 	"ZSimpleJSONDeprecateStringDefaultHandler",
+	"ZSlowerTerrain",
 	"ZSmoothClusterFixes",
 	"ZSocialTeam",
 	"ZSplitHashUpdateTesting",

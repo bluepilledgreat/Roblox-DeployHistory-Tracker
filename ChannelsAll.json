@@ -445,6 +445,7 @@
     "ZSerializerApiTest",
     "ZSimLazyIslandUpdateAndRepack",
     "ZSimpleJSONDeprecateStringDefaultHandler",
+    "ZSlowerTerrain",
     "ZSmoothClusterFixes",
     "ZSocialTeam",
     "ZSocial-Presence",
