@@ -61,6 +61,7 @@
     "ZCanaryTest4",
     "ZCanaryTest5",
     "ZCanaryTest6",
+    "ZCandidateFixIC",
     "ZCaptures",
     "ZCheckSendTypeBeforeSetupTimer",
     "ZCheckSendTypeBeforeSetUptimerInHttpPointsReporter",
