@@ -228,6 +228,7 @@
     "ZFFlagFCFixDestroyClusters",
     "ZFFPContractOff",
     "ZFileWatcherTesting",
+    "ZFixDockPanelCrash",
     "ZFixExtraParserMapEntries",
     "ZFlag",
     "ZFlagEditor",

@@ -55,6 +55,7 @@
 	"ZFeatureThreadNamesWindows",
 	"ZFFlagFCFixDestroyClusters",
 	"ZFFPContractOff",
+	"ZFixDockPanelCrash",
 	"ZFlag",
 	"ZFlaggedSplitHashUpdateTestingV2",
 	"ZFlexLayoutControl",
