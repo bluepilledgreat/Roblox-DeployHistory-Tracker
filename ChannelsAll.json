@@ -509,6 +509,8 @@
     "ZUADFMeshLODRelease",
     "ZUADFMobile",
     "ZUADFRelease",
+    "ZUFCTesting",
+    "ZUFCTesting-Flags-On",
     "ZUIDragDetector",
     "ZUnifiedHangMonitor",
     "ZUpdateLayoutTelemetryExperiment",
