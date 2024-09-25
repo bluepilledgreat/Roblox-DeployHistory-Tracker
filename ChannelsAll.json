@@ -449,6 +449,8 @@
     "ZSecretStoreTest",
     "ZSecretUrlEncodeTest",
     "ZSerializerApiTest",
+    "ZSessionTrackingRealTimeReportingMac",
+    "ZSessionTrackingRealTimeReportingWindows",
     "ZSimLazyIslandUpdateAndRepack",
     "ZSimpleJSONDeprecateStringDefaultHandler",
     "ZSlowerTerrain",

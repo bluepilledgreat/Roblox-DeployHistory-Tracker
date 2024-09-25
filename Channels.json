@@ -141,6 +141,8 @@
 	"ZSATintTest633",
 	"ZScopedRefPtrReleaseBug",
 	"ZSerializerApiTest",
+	"ZSessionTrackingRealTimeReportingMac",
+	"ZSessionTrackingRealTimeReportingWindows",
 	"ZSimLazyIslandUpdateAndRepack",
 	"ZSimpleJSONDeprecateStringDefaultHandler",
 	"ZSlowerTerrain",
