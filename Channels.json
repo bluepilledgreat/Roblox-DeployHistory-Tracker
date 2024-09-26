@@ -53,6 +53,7 @@
 	"ZExpD256",
 	"ZExpR256",
 	"ZExpVariantPrivate",
+	"ZFallThroughCleanup",
 	"ZFCCache",
 	"ZFCThreadSafe",
 	"ZFeatureThreadNamesWindows",

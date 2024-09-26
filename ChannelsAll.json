@@ -119,6 +119,7 @@
     "ZExpVariantPublic",
     "ZExpVariantPublic3",
     "ZExpVariantStandby",
+    "ZFallThroughCleanup",
     "ZFCCache",
     "ZFCThreadSafe",
     "ZFeature600-Public-URE-Testing",
