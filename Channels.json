@@ -83,6 +83,7 @@
 	"ZJsonAllocatorChanges",
 	"ZKTong-Crash-Hang-Testing",
 	"ZIlyaControl",
+	"ZInstanceClusterDeferredMeshRebind",
 	"ZInstanceClusterRetryPartInvalidation",
 	"ZInstanceGlob",
 	"ZInstanceGlob3",
