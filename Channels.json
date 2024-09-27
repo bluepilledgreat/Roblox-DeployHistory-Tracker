@@ -56,6 +56,7 @@
 	"ZFallThroughCleanup",
 	"ZFCCache",
 	"ZFCThreadSafe",
+	"ZFeatureLuaObjectInstanceBridgeMergeFix",
 	"ZFeatureThreadNamesWindows",
 	"ZFFlagFCFixDestroyClusters",
 	"ZFFPContractOff",

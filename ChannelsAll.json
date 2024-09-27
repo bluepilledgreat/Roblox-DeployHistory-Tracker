@@ -178,6 +178,7 @@
     "ZFeatureLiveParts",
     "ZFeatureLuaCharacterController",
     "ZFeatureLuaIInline1",
+    "ZFeatureLuaObjectInstanceBridgeMergeFix",
     "ZFeatureLuaSM",
     "ZFeatureLUATOOLS-121-rbxpMoonbeamReleaseTest",
     "ZFeatureLua-File-Sync",
