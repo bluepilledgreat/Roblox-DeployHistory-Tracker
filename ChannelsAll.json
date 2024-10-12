@@ -241,6 +241,7 @@
     "ZFixExtraParserMapEntries",
     "ZFlag",
     "ZFlagEditor",
+    "ZFlagged-HttpBuf",
     "ZFlaggedSplitHashUpdateTestingV2",
     "ZFlexLayoutControl",
     "ZFlexLayoutTest2",
