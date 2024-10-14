@@ -5,6 +5,8 @@
 	"ZAllocCallbacks",
 	"ZAllocTrackWinQuickFix",
 	"ZAnrReporterOnWindowsTesting",
+	"ZAOmarPCRegressionTestCurrent",
+	"ZAOmarPCRegressionTestStale",
 	"ZAssetCacheInitProd",
 	"ZAsyncApolloCow",
 	"ZAsyncApolloCowExperiment",

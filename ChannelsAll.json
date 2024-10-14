@@ -13,6 +13,8 @@
     "ZAllocCallbacks",
     "ZAllocTrackWinQuickFix",
     "ZAnrReporterOnWindowsTesting",
+    "ZAOmarPCRegressionTestCurrent",
+    "ZAOmarPCRegressionTestStale",
     "ZAssetAccessErrorMessageImprovements",
     "ZAssetCacheInitProd",
     "ZAssetDeliveryV2",
