@@ -217,6 +217,7 @@
 	"ZTestMacShaderAllocation",
 	"ZTestPose",
 	"ZTestSSADestructionOnDesktop",
+	"ZTestZstdDictFlagsMac",
 	"ZTextureDedup",
 	"ZTextureDedup-Control",
 	"ZTheod-Test-003",
