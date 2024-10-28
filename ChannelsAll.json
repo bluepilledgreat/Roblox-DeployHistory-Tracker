@@ -126,6 +126,7 @@
     "ZDummy",
     "ZDummy3",
     "ZDXT",
+    "ZEditableSkinnedMesh",
     "ZEnableZstdDictionaryForClientSettings",
     "ZEnableZstdForClientSettings",
     "ZExpControl",
