@@ -46,6 +46,7 @@
 	"ZChunkExperimentBinary",
 	"ZChunkExperimentBinaryControl",
 	"ZChunkExperimentEight",
+	"ZClientRBXMSplit",
 	"ZClockSkew",
 	"ZCommonCLFB",
 	"ZCompatibilityTelemetryChannelFlagOnly",

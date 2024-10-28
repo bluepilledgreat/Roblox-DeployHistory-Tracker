@@ -94,6 +94,7 @@
     "ZClientIntegration",
     "ZClientIntegration1",
     "ZClientPresence2",
+    "ZClientRBXMSplit",
     "ZClientTokenFromHeader3",
     "ZClientWatcher",
     "ZClockSkew",
