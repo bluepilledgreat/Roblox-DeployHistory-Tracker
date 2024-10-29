@@ -52,6 +52,7 @@
 	"ZCompatibilityTelemetryChannelFlagOnly",
 	"ZControl",
 	"ZCrashHandlerShutdownTesting",
+	"ZCreateMRDAllocsEfficiencyTelem",
 	"ZCreateMRDAllocsReduc",
 	"ZCSPUHotfixTest",
 	"ZDeadFlag",

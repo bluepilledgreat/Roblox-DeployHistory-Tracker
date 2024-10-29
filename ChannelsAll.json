@@ -109,6 +109,7 @@
     "ZCopy_Both",
     "ZCrashHandlerShutdownTesting",
     "ZCrashOnShutdown",
+    "ZCreateMRDAllocsEfficiencyTelem",
     "ZCreateMRDAllocsReduc",
     "ZCSCTesting",
     "ZCSG4",
