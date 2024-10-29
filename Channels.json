@@ -191,6 +191,8 @@
 	"ZSATintTest633",
 	"ZScopedRefPtrReleaseBug",
 	"ZSerializerApiTest",
+	"ZSessionTrackingBlocking",
+	"ZSessionTrackingBlockingComparison",
 	"ZSessionTrackingRealTimeReportingMac",
 	"ZSessionTrackingRealTimeReportingWindows",
 	"ZSimLazyIslandUpdateAndRepack",

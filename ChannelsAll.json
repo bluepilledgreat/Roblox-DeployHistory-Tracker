@@ -529,6 +529,8 @@
     "ZSecretStoreTest",
     "ZSecretUrlEncodeTest",
     "ZSerializerApiTest",
+    "ZSessionTrackingBlocking",
+    "ZSessionTrackingBlockingComparison",
     "ZSessionTrackingRealTimeReportingMac",
     "ZSessionTrackingRealTimeReportingWindows",
     "ZSimLazyIslandUpdateAndRepack",
