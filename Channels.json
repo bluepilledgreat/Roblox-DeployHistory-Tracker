@@ -56,6 +56,7 @@
 	"ZCreateMRDAllocsReduc",
 	"ZCSPUHotfixTest",
 	"ZDeadFlag",
+	"ZDeprecateSpinMutex",
 	"ZDFFlagExplicitPlaySessionIdHttpDownloadBandwidth",
 	"ZDisableMemoryTrackingTest",
 	"ZDisableMemoryTrackingTestComparison",
