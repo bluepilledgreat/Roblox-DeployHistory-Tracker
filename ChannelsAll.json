@@ -343,6 +343,7 @@
     "ZIntegrationTest5",
     "ZJJJ",
     "ZJsonAllocatorChanges",
+    "ZKDTreeRemovalControl",
     "ZKTong-Crash-Hang-Testing",
     "ZKTong-Crash-Hang-Testing-Windows",
     "ZLang",

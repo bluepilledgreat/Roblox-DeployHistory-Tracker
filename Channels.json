@@ -115,6 +115,7 @@
 	"ZHermeticBuilds",
 	"ZHighEnrollmentMetricsTest",
 	"ZJsonAllocatorChanges",
+	"ZKDTreeRemovalControl",
 	"ZKTong-Crash-Hang-Testing",
 	"ZIlyaControl",
 	"ZInstanceClusterDeferredMeshRebind",
