@@ -342,6 +342,7 @@
     "ZIntegrationTest3",
     "ZIntegrationTest4",
     "ZIntegrationTest5",
+    "ZIXPFFlagIntegrationFlowTest",
     "ZJJJ",
     "ZJsonAllocatorChanges",
     "ZKDTreeRemovalControl",
