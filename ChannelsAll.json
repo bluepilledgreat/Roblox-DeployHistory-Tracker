@@ -693,6 +693,8 @@
 	"ZSocialCoExp",
 	"ZSocialCoExpMaster",
 	"ZSocialContextToast",
+	"ZSocialInExpPlatformChat",
+	"ZSocialInExpPlatformChatControl",
 	"ZSocialTeam",
 	"ZSplitHashUpdateTesting",
 	"ZSplitHashUpdateTestingV2",

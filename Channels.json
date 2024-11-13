@@ -219,6 +219,8 @@
 	"ZSlowerTerrain",
 	"ZSmallTelemetryOptimizations",
 	"ZSmoothClusterFixes",
+	"ZSocialInExpPlatformChat",
+	"ZSocialInExpPlatformChatControl",
 	"ZSocialTeam",
 	"ZSplitHashUpdateTesting",
 	"ZSplitHashUpdateTestingV2",
