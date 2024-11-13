@@ -145,6 +145,8 @@
 	"ZCSCTesting",
 	"ZCSG4",
 	"ZCSPUHotfixTest",
+	"ZCurlPools",
+	"ZCurlPoolsControl",
 	"ZDeadFlag",
 	"ZDeDupe",
 	"ZDeeplinkPrototype",

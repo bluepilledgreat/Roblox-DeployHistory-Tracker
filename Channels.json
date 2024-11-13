@@ -57,6 +57,8 @@
 	"ZCreateMRDAllocsEfficiencyTelem",
 	"ZCreateMRDAllocsReduc",
 	"ZCSPUHotfixTest",
+	"ZCurlPools",
+	"ZCurlPoolsControl",
 	"ZDeadFlag",
 	"ZDeprecateSpinMutex",
 	"ZDeviceRAMPointsV2",
