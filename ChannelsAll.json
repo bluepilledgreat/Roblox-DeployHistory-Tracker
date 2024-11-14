@@ -603,6 +603,7 @@
 	"ZReduceFontAssetIdAllocs",
 	"ZReEnableTLSPreWarm",
 	"ZReEnableTLSPreWarmWithThread",
+	"ZReEnableWinZstdDict",
 	"ZRegistrationMacroMigration",
 	"ZRegressionTest1",
 	"ZRegressionTest10",
@@ -680,6 +681,8 @@
 	"ZSecretStoreTest",
 	"ZSecretUrlEncodeTest",
 	"ZSecurity",
+	"ZSergeyControlChannel",
+	"ZSergeyVariantChannel",
 	"ZSerializerApiTest",
 	"ZSessionTrackingBlocking",
 	"ZSessionTrackingBlockingComparison",
@@ -764,6 +767,7 @@
 	"ZTestingChannel",
 	"ZTestMac2",
 	"ZTestMacShaderAllocation",
+	"ZTestNewMemoryUtilityCurveSystem",
 	"ZTestOnDemandObject",
 	"ZTestPose",
 	"ZTests",
@@ -843,5 +847,6 @@
 	"ZZContextInfoTelemetryPerfTestControl",
 	"ZZoomFixesControl",
 	"ZZPublicBetaDogFoodingChris2",
-	"ZZTempTestEnrollmentSubmit4"
+	"ZZTempTestEnrollmentSubmit4",
+	"ZZTestNewMemoryUtilityCurveSystemControl"
 ]
