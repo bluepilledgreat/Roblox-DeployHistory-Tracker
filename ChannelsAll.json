@@ -721,6 +721,8 @@
 	"ZStaleFlagControl",
 	"ZStandByPrivate",
 	"ZSTBlockingTest",
+	"ZSTBlockingTest3",
+	"ZSTBlockingTest3Comparison",
 	"ZSTBlockingTestComparison",
 	"ZStepPhysics",
 	"ZSTFullThrottle",

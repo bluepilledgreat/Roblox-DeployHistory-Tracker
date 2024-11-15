@@ -245,6 +245,8 @@
 	"ZStaleFlag",
 	"ZStaleFlagControl",
 	"ZSTBlockingTest",
+	"ZSTBlockingTest3",
+	"ZSTBlockingTest3Comparison",
 	"ZSTBlockingTestComparison",
 	"ZSTFullThrottle",
 	"ZStudioInt1",
