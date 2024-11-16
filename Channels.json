@@ -245,6 +245,8 @@
 	"ZStaleFlag",
 	"ZStaleFlagControl",
 	"ZSTBlockingTest",
+	"ZSTBlockingTest2",
+	"ZSTBlockingTest2Comparison",
 	"ZSTBlockingTest3",
 	"ZSTBlockingTest3Comparison",
 	"ZSTBlockingTestComparison",
