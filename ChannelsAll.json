@@ -38,6 +38,7 @@
 	"ZApollo",
 	"ZAppFoundation",
 	"ZAppSessionL0Test",
+	"ZAppVersionNull",
 	"ZAsan",
 	"ZAssetAccessErrorMessageImprovements",
 	"ZAssetCacheInit",
@@ -480,6 +481,8 @@
 	"ZMaterialManager",
 	"ZMaterialPicker",
 	"ZMediaPicker",
+	"ZMemoryMap0",
+	"ZMemoryMap1",
 	"ZMessageBusServiceTest",
 	"ZMinRadiusLimits",
 	"ZModerationDialog",
@@ -821,6 +824,8 @@
 	"ZTextureGenerator",
 	"ZTheod-Test-003",
 	"ZThumbnail",
+	"ZTimeEarlyDataModelDisable",
+	"ZTimeEarlyDatamodelEnabled",
 	"ZTimeEarlyDataModelInit",
 	"ZTotalBytesInAllocStats",
 	"ZTouchSwipeChanges",
@@ -896,5 +901,6 @@
 	"ZZoomFixesControl",
 	"ZZPublicBetaDogFoodingChris2",
 	"ZZTempTestEnrollmentSubmit4",
-	"ZZTestNewMemoryUtilityCurveSystemControl"
+	"ZZTestNewMemoryUtilityCurveSystemControl",
+	"ZZYohoo-Fragment-AC-Test2"
 ]

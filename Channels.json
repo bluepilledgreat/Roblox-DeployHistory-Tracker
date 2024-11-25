@@ -19,6 +19,7 @@
 	"ZAOmarPCRegressionTestStale2",
 	"ZAOmarPCRegressionTestStale3",
 	"ZAppSessionL0Test",
+	"ZAppVersionNull",
 	"ZAssetCacheInit4",
 	"ZAssetCacheInitProd",
 	"ZAsyncApolloCow",
@@ -185,6 +186,8 @@
 	"ZMakeRoomInOverlapParams",
 	"ZManualHookTest",
 	"ZManualHookTest5",
+	"ZMemoryMap0",
+	"ZMemoryMap1",
 	"ZMonvingCrashHandlerInitUp",
 	"ZMoreGranularTelemetryProfiling",
 	"ZNetworkExTO",
@@ -315,6 +318,8 @@
 	"ZTextureDedup",
 	"ZTextureDedup-Control",
 	"ZTheod-Test-003",
+	"ZTimeEarlyDataModelDisable",
+	"ZTimeEarlyDatamodelEnabled",
 	"ZTimeEarlyDataModelInit",
 	"ZTotalBytesInAllocStats",
 	"ZTouchSwipeChanges",
@@ -353,5 +358,6 @@
 	"ZZMacTestNewMemoryUtilityCurveSystem",
 	"ZZMacTestNewMemoryUtilityCurveSystemControl",
 	"ZZoomFixesControl",
-	"ZZTestNewMemoryUtilityCurveSystemControl"
+	"ZZTestNewMemoryUtilityCurveSystemControl",
+	"ZZYohoo-Fragment-AC-Test2"
 ]
