@@ -13,6 +13,8 @@
 	"ZAlecFlagOnly2",
 	"ZAllocCallbacks",
 	"ZAllocTrackWinQuickFix",
+	"ZAndroidUnifiedLighting",
+	"ZAndroidUnifiedLightingControl",
 	"ZAnrReporterOnWindowsTesting",
 	"ZAOmarPCRegressionTestCurrent",
 	"ZAOmarPCRegressionTestStale",
