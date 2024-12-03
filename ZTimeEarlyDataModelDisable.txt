@@ -1,2 +1,0 @@
-MacStudio: version-06fc92e9ee084959 [0.652.0.6520764]
-MacStudioCJV: version-37eabf325d0f45ef [0.615.0.6150606]
