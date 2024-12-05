@@ -1,4 +1,0 @@
-WindowsStudio64CJV: version-8ad2f6245e3e48f7 [0.615.0.6150606]
-MacPlayer: version-d701c5c2ffa34e14 [0.653.0.6530693]
-MacStudio: version-78a0a8601ea54bff [0.653.0.6530693]
-MacStudioCJV: version-37eabf325d0f45ef [0.615.0.6150606]
