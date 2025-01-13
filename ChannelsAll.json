@@ -850,6 +850,7 @@
 	"ZTestingChannel",
 	"ZTestMac2",
 	"ZTestMacShaderAllocation",
+	"ZTestMDPublic",
 	"ZTestMechanismReplication",
 	"ZTestNewMemoryUtilityCurveSystem",
 	"ZTestOnDemandObject",

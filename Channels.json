@@ -347,6 +347,7 @@
 	"ZTestConnectionPreWarmingMac4",
 	"ZTestMac2",
 	"ZTestMacShaderAllocation",
+	"ZTestMDPublic",
 	"ZTestMechanismReplication",
 	"ZTestNewMemoryUtilityCurveSystem",
 	"ZTestPose",
