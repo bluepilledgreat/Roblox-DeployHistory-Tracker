@@ -542,6 +542,7 @@
 	"ZPerfRegression",
 	"ZPerfTest",
 	"ZPerfVerify",
+	"ZPersistDataFlowGraphArenas",
 	"ZPhysicsBeta",
 	"ZPhysicsDebug",
 	"ZPhysicsDebugSK",
