@@ -95,6 +95,7 @@
 	"ZDSClangCleanup",
 	"ZEnableCoreScriptAndPluginVMPools",
 	"ZEnableExperienceCoordinator7",
+	"ZEnableInstallerAsProtocolHandler",
 	"ZEnableScriptRuntime",
 	"ZEnableZstdDictionaryForClientSettings",
 	"ZEnableZstdForClientSettings",

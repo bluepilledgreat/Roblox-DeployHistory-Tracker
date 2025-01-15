@@ -198,6 +198,7 @@
 	"ZEnableCoreScriptAndPluginVMPools",
 	"ZEnableExperienceCoordinator7",
 	"ZEnableForceSyncLuaAppDestroyOnLowMemory",
+	"ZEnableInstallerAsProtocolHandler",
 	"ZEnablePreWarmableOkHttpDnsResolver",
 	"ZEnablePreWarmableOkHttpDnsResolver2",
 	"ZEnableScriptRuntime",
