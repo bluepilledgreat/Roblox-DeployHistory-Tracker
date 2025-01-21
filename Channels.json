@@ -164,6 +164,7 @@
 	"ZHighEnrollmentMetricsTest",
 	"ZHttpCache",
 	"ZIlyaControl",
+	"ZIncrementalModuleCloning",
 	"ZInstanceClusterDeferredMeshRebind",
 	"ZInstanceClusterRetryPartInvalidation",
 	"ZInstanceGlob",
