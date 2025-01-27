@@ -531,6 +531,7 @@
 	"ZOpenTelemetry",
 	"ZOpenTelemetryControl",
 	"ZOpenXRRegressionTest",
+	"ZOptimized-PCH-1",
 	"ZOut-Of-Memory-Fixes",
 	"ZOut-Of-Memory-Fixes-Control",
 	"ZOverlapTest",
