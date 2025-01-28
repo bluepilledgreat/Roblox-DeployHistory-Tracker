@@ -723,6 +723,7 @@
 	"ZRenderInvalidateOpt",
 	"ZRenderInvalidateOptTest",
 	"ZRenderPerformance",
+	"ZReOrderPluginLoading",
 	"ZReportAppSuspended",
 	"ZReportEarlyTelemetryData",
 	"ZRequestRegressionControl",

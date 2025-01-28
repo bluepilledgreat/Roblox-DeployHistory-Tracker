@@ -280,6 +280,7 @@
 	"ZRemoveMTypesetters",
 	"ZRenderInvalidateOpt",
 	"ZRenderInvalidateOptTest",
+	"ZReOrderPluginLoading",
 	"ZReportEarlyTelemetryData",
 	"ZRequestRegressionControl",
 	"ZRequestRegressionTest1",
