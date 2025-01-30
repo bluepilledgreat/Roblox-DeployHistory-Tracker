@@ -644,6 +644,7 @@
 	"ZPreEmptLuaApps32BitOnlyNonBlocking",
 	"ZPreEmptLuaAppsAllNonBlocking",
 	"ZPreEmptLuaAppsControl",
+	"ZPreloadAvatarAssetsTest",
 	"ZPrimalSolver",
 	"ZPrimalSolverTest",
 	"ZProject512-Boost-Remove-Mutex-1",

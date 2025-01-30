@@ -237,6 +237,7 @@
 	"ZPreEmptLuaApps32BitOnlyBlocking",
 	"ZPreEmptLuaApps32BitOnlyNonBlocking",
 	"ZPreEmptLuaAppsAllNonBlocking",
+	"ZPreloadAvatarAssetsTest",
 	"ZProjectELiu",
 	"ZProjectUWPUA",
 	"ZPublicBetaDogFoodingGeneral1",
