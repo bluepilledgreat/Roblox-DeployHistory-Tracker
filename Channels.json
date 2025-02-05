@@ -213,6 +213,7 @@
 	"ZManualHookTest5",
 	"ZMemoryMap0",
 	"ZMemoryMap1",
+	"ZMidPhaseOptimization",
 	"ZMonvingCrashHandlerInitUp",
 	"ZMoreGranularTelemetryProfiling",
 	"ZNetworkExTO",

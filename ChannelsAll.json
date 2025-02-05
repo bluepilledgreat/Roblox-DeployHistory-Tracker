@@ -580,6 +580,7 @@
 	"ZMemoryMap3",
 	"ZMemoryMap3Control",
 	"ZMessageBusServiceTest",
+	"ZMidPhaseOptimization",
 	"ZMigrateToOpenSSL3",
 	"ZMinRadiusLimits",
 	"ZMinRadiusTest",
