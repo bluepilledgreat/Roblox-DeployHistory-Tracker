@@ -500,6 +500,7 @@
 	"ZHermeticBuilds",
 	"ZHighEnrollmentMetricsTest",
 	"ZHighPingTest",
+	"ZHookPVFMigration",
 	"ZHttpCache",
 	"ZHumanoidDefaultReplaceUnsafeBlockingLoadInstance",
 	"ZHumanoidDescriptionInstances",
